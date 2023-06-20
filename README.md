@@ -1,2 +1,2 @@
 # OIBSIP_Task3
-TO-DO
+TASK 3 : TO-DO PAGE. This is a part of the Oasis Infobyte Internship(JUNE 2023 Batch) The Level 2 Task 3 of the internship is to develop a To-Do page using HTML, CSS and JavaScript. The to-do web app must allow users to add new items to a list, and items added to a list must be visible. Also, a user can mark a task “complete” upon its successful completion, and these completed tasks must appear on a separate list, say Completed Tasks
